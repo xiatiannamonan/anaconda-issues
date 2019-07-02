@@ -1,0 +1,4 @@
+FutureWarning: Method .as_matrix will be removed in a future version. Use .values instead.
+  txtdata=df[colnames].as_matrix()
+  将.as_matrix()改为.value()
+  
